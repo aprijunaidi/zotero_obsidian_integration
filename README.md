@@ -90,5 +90,13 @@ For the Template File: template/zotero_integration.md
 ![18](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/3d210f79-d0fb-4603-9457-f614454584a6)
 
 
+### Bibliography Style : Click on Hotkeys tab, search in filter import
+![19](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/fc97c6da-d6db-42a7-abcd-f3aaf72e85c7)
 
+### On keyboard press Ctrl + Shift + I
+![20](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/57a35ef2-0840-4bd3-8bcd-900c770f057c)
+
+# Installation Complete
+Close the plugin page, back to the obsidian page.
+Press on keyboard then press Ctrl + Shift+ I
 
