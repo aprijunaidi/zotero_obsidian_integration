@@ -23,3 +23,7 @@ Open Zotero then click on Tools-> Add-ons
 ![4](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/04476e57-f76f-4644-9b3f-123b0ed5f096)
 
 To install the plugin, we can drag and drop the xpi file to the add-ons manager or click the setting icon, then click the Install add-ons from the file.
+
+![5](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/59582cf7-3f6e-4851-8ed7-ec3bf7bb7be9)
+
+
