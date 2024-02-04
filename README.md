@@ -58,3 +58,16 @@ Back to Obsidian, click the setting icon on the left bottom. Click the Community
 ### Then find the Zotero Integration and click Install-> click enable.
 ![11](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/c8cb1f55-c8ea-4f73-b67b-aed323a06ba4)
 
+### Click on the options button, then click Download the PDF Utility.
+
+![12](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/36aa069a-3933-4f3e-8674-d20350b9d63c)
+
+![13](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/5669311d-a688-4953-804c-71eaa7b55a18)
+
+### Go to the database, then choose Zotero.
+![14](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/73f75733-f860-4997-8e01-3908d8313347)
+
+### Enable for Open the created or updated note(s) after import.
+![15](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/97fa94e4-2097-4684-bca9-a815f8ecfc4d)
+
+
