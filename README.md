@@ -5,3 +5,6 @@ I am delighted to present this guide on the installation of Zotero Obsidian inte
 # Plugin
 Better BibTeX for Zotero : https://retorque.re/zotero-better-bibtex/installation/
 
+![1](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/276037ea-06f3-4346-93c5-224fc87772ea)
+
+
