@@ -1,5 +1,5 @@
 
-![23](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/3e8e6330-a914-4d50-b3b9-66fc1c12ef44){:width=500 height=500}
+![23](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/3e8e6330-a914-4d50-b3b9-66fc1c12ef44){:width="500" height="500"}
 
 # Zotero Obsidian Integration
 
