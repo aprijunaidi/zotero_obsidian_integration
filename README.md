@@ -36,5 +36,10 @@ Click the Install Now button, then follow the instructions.
 
 # Integration
 Now you can open the obsidian, create a new folder, and then give the folder name template.
+In this step, we need the template file. Download the file from GitHub, then drag and drop it into the template folder.
+Template file: https://github.com/aprijunaidi/zotero_obsidian_integration/blob/main/zotero_integration.md
+source file : https://raw.githubusercontent.com/muhammadammarzahid/zotero_obsidian/7ad6785e8aedd91b28444efc40061c6894a3266d/zotero_integration.md
+
+![8](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/efb76149-4593-45ca-94af-350a4536edf4)
 
 
