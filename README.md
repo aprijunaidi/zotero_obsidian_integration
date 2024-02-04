@@ -34,3 +34,7 @@ Click the Install Now button, then follow the instructions.
 # Plugin Installation is complete
 ![7](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/2e6f922c-df3a-44f3-803f-89401a6e83e9)
 
+# Integration
+Now you can open the obsidian, create a new folder, and then give the folder name template.
+
+
