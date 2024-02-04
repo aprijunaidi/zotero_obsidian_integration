@@ -97,6 +97,16 @@ For the Template File: template/zotero_integration.md
 ![20](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/57a35ef2-0840-4bd3-8bcd-900c770f057c)
 
 # Installation Complete
+
+# Testing
 Close the plugin page, back to the obsidian page.
-Press on keyboard then press Ctrl + Shift+ I
+Press on keyboard then press Ctrl + Shift+ I, wait until the Zotero plugin displays on the screen.
+
+### Type the keyword to find the article, for example object then choose the article title, press enter.
+
+![21](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/c6e9d622-e3aa-4185-b060-7e2e1c8e8c41)
+
+# The Final Result
+![22](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/10ac2562-db94-4cb9-927a-c36f6d672eb8)
+
 
