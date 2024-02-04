@@ -31,4 +31,6 @@ On the next screen, display the installation page.
 Click the Install Now button, then follow the instructions.
 ![6](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/692eb9d5-0822-43d2-ac3c-8d311aa9ac39)
 
+# Plugin Installation is complete
+![7](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/2e6f922c-df3a-44f3-803f-89401a6e83e9)
 
