@@ -70,4 +70,25 @@ Back to Obsidian, click the setting icon on the left bottom. Click the Community
 ### Enable for Open the created or updated note(s) after import.
 ![15](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/97fa94e4-2097-4684-bca9-a815f8ecfc4d)
 
+### Then enable Annotation and Concatenation.
+![16](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/f5244101-f24c-4895-bd3d-415bf4b3f77a)
+
+### Scroll down and click on Add Import Format.
+![17](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/73ca725d-9d62-4680-9802-5221168778ec)
+
+### Please input the following text.
+
+For the name field type: import annotations
+
+Zotero path : zotero_annotations/{{citekey}}.md
+
+Image Output path:  zotero_annotations/{{citekey}}/
+
+For the Template File: template/zotero_integration.md
+
+### Result.
+![18](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/3d210f79-d0fb-4603-9457-f614454584a6)
+
+
+
 
