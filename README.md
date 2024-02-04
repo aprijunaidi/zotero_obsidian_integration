@@ -12,3 +12,8 @@ https://github.com/retorquere/zotero-better-bibtex/releases/tag/v6.7.150
 
 ![2](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/52637b9f-84a6-4666-8a48-2f1552932629)
 
+Download the file with extension .xpi
+
+# Zotero Configuration
+Open Zotero then click on Tools-> Add-ons
+![3](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/a7d197b5-ae70-4642-97b5-473405a5d737)
