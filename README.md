@@ -43,3 +43,17 @@ In this step, we need the template file. Download the file from GitHub, then dra
 
 Template file: https://github.com/aprijunaidi/zotero_obsidian_integration/blob/main/zotero_integration.md
 source file : https://raw.githubusercontent.com/muhammadammarzahid/zotero_obsidian/7ad6785e8aedd91b28444efc40061c6894a3266d/zotero_integration.md
+
+# The Template uploaded
+
+![9](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/a2b6aca4-15f9-476e-a299-f54251cd3e9e)
+
+
+# The Obsidian Plugins configuration
+
+Back to Obsidian, click the setting icon on the left bottom. Click the Community plugin-> click Browse button.
+
+![10](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/ea331a13-5dd9-44fd-89e4-58983086a72c)
+
+
+
