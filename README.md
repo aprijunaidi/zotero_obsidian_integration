@@ -110,7 +110,7 @@ Press on keyboard then press Ctrl + Shift+ I, wait until the Zotero plugin displ
 # The Final Result
 ![22](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/10ac2562-db94-4cb9-927a-c36f6d672eb8)
 
-# Contribution hammer_and_wrench:
+# Contribution :hammer_and_wrench:
 
 Please [create an Issue](https://github.com/aprijunaidi/zotero_obsidian_integration/issues) for any improvements, suggestions, or errors in the content.
 
