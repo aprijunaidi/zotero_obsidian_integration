@@ -55,5 +55,6 @@ Back to Obsidian, click the setting icon on the left bottom. Click the Community
 
 ![10](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/ea331a13-5dd9-44fd-89e4-58983086a72c)
 
-
+## Then find the Zotero Integration and click Install-> click enable.
+![11](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/c8cb1f55-c8ea-4f73-b67b-aed323a06ba4)
 
