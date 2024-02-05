@@ -115,3 +115,6 @@ Press on keyboard then press Ctrl + Shift+ I, wait until the Zotero plugin displ
 Please [create an Issue](https://github.com/aprijunaidi/zotero_obsidian_integration/issues) for any improvements, suggestions, or errors in the content.
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faprijunaidi%2Fzotero_obsidian_integration&countColor=%23263759&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Faprijunaidi%2Fzotero_obsidian_integration)
+
+
+![23](https://github.com/aprijunaidi/zotero_obsidian_integration/assets/7279471/b917f7ea-b060-467b-9202-8a97a49e7f34)
